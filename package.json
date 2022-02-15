@@ -1,5 +1,5 @@
 {
-  "name": "marvel-team",
+  "name": "react-boilerplate",
   "version": "0.1.0",
   "license": "UNLICENSED",
   "scripts": {
@@ -11,7 +11,7 @@
     "isready": "yarn format && yarn lint && yarn build",
     "lint": "eslint \"src/**/*.{js,ts,tsx}\" --color --fix",
     "reinstall": "yarn clean && yarn --force",
-    "rebuild": "yarn clean && yarn --force && yarn start",
+    "rebuild": "rm -rfv .next && yarn build",
     "test": "jest --env=jsdom --coverage --coverageDirectory=.jest",
     "test:watch": "yarn test --watch",
     "test:ci": "yarn test -- --coverage --runInBand",

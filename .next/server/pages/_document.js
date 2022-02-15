@@ -9,10 +9,10 @@ exports.modules = {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var C_Users_taalmeid_projects_learning_marvel_team_node_modules_babel_runtime_helpers_esm_classCallCheck_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(6610);
-/* harmony import */ var C_Users_taalmeid_projects_learning_marvel_team_node_modules_babel_runtime_helpers_esm_createClass_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(5991);
-/* harmony import */ var C_Users_taalmeid_projects_learning_marvel_team_node_modules_babel_runtime_helpers_esm_inherits_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(5255);
-/* harmony import */ var C_Users_taalmeid_projects_learning_marvel_team_node_modules_babel_runtime_helpers_esm_createSuper_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(1052);
+/* harmony import */ var C_Users_taalmeid_projects_lab_react_boilerplate_node_modules_babel_runtime_helpers_esm_classCallCheck_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(6610);
+/* harmony import */ var C_Users_taalmeid_projects_lab_react_boilerplate_node_modules_babel_runtime_helpers_esm_createClass_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(5991);
+/* harmony import */ var C_Users_taalmeid_projects_lab_react_boilerplate_node_modules_babel_runtime_helpers_esm_inherits_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(5255);
+/* harmony import */ var C_Users_taalmeid_projects_lab_react_boilerplate_node_modules_babel_runtime_helpers_esm_createSuper_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(1052);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(9297);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var next_document__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(6859);
@@ -25,17 +25,17 @@ var __jsx = (react__WEBPACK_IMPORTED_MODULE_0___default().createElement);
 
 
 var CustomDocument = /*#__PURE__*/function (_Document) {
-  (0,C_Users_taalmeid_projects_learning_marvel_team_node_modules_babel_runtime_helpers_esm_inherits_js__WEBPACK_IMPORTED_MODULE_2__/* .default */ .Z)(CustomDocument, _Document);
+  (0,C_Users_taalmeid_projects_lab_react_boilerplate_node_modules_babel_runtime_helpers_esm_inherits_js__WEBPACK_IMPORTED_MODULE_2__/* .default */ .Z)(CustomDocument, _Document);
 
-  var _super = (0,C_Users_taalmeid_projects_learning_marvel_team_node_modules_babel_runtime_helpers_esm_createSuper_js__WEBPACK_IMPORTED_MODULE_3__/* .default */ .Z)(CustomDocument);
+  var _super = (0,C_Users_taalmeid_projects_lab_react_boilerplate_node_modules_babel_runtime_helpers_esm_createSuper_js__WEBPACK_IMPORTED_MODULE_3__/* .default */ .Z)(CustomDocument);
 
   function CustomDocument() {
-    (0,C_Users_taalmeid_projects_learning_marvel_team_node_modules_babel_runtime_helpers_esm_classCallCheck_js__WEBPACK_IMPORTED_MODULE_4__/* .default */ .Z)(this, CustomDocument);
+    (0,C_Users_taalmeid_projects_lab_react_boilerplate_node_modules_babel_runtime_helpers_esm_classCallCheck_js__WEBPACK_IMPORTED_MODULE_4__/* .default */ .Z)(this, CustomDocument);
 
     return _super.apply(this, arguments);
   }
 
-  (0,C_Users_taalmeid_projects_learning_marvel_team_node_modules_babel_runtime_helpers_esm_createClass_js__WEBPACK_IMPORTED_MODULE_5__/* .default */ .Z)(CustomDocument, [{
+  (0,C_Users_taalmeid_projects_lab_react_boilerplate_node_modules_babel_runtime_helpers_esm_createClass_js__WEBPACK_IMPORTED_MODULE_5__/* .default */ .Z)(CustomDocument, [{
     key: "render",
     value: function render() {
       return __jsx(next_document__WEBPACK_IMPORTED_MODULE_1__.Html, {
