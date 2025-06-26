@@ -28,9 +28,9 @@ The implementation emphasizes performance, scalability, maintainability, and SEO
 
 - Back-end Integration:
   
-  * Through React Hooks back-end api base url and base params are integrated to the project => ![image](https://github.com/user-attachments/assets/e4dd40bf-e7bc-4af6-9d6e-57c1384fd469)
+  * Through React Hooks, back-end api base url and base params are integrated into the project ![459599536-e4dd40bf-e7bc-4af6-9d6e-57c1384fd469](https://github.com/user-attachments/assets/54eb087e-f850-4637-acd6-ec96e3a886cf)
 
-  * With React Context the api is provided to the entire project => ![image](https://github.com/user-attachments/assets/513a0aa0-fe92-44cb-adde-79723c41368f)
+  * React Context enables the api to be provided to all pages in the project ![image](https://github.com/user-attachments/assets/513a0aa0-fe92-44cb-adde-79723c41368f)
 
 ## 🔧 Tech Stack
 
