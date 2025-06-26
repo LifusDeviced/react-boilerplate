@@ -26,6 +26,11 @@ The implementation emphasizes performance, scalability, maintainability, and SEO
 
   * Establishes reusable tokens and variables for spacing, fonts, and themes to streamline future development and updates.
 
+- Back-end Integration:
+  
+  * Through React Hooks back-end api base url and base params are integrated to the project => ![image](https://github.com/user-attachments/assets/e4dd40bf-e7bc-4af6-9d6e-57c1384fd469)
+
+  * With React Context the api is provided to the entire project => ![image](https://github.com/user-attachments/assets/513a0aa0-fe92-44cb-adde-79723c41368f)
 
 ## 🔧 Tech Stack
 
